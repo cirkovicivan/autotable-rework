@@ -1,6 +1,6 @@
 A Python CLI tool that converts fuel-station PDF reports into structured ODS spreadsheets, automating data extraction, calculations, and document processing.
 
-![AutoTable Example](docs/images/autotable-example.png)
+![autotable demo](images/autotable_demo.gif)
 
 ## Motivation
 
