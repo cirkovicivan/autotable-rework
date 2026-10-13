@@ -8,12 +8,12 @@ While working at a gas station, I noticed that processing daily reports took me 
 
 ## ⚙️ Engineering Highlights
 
-- **PDF Data Extraction:** Extracts structured data from PDF reports using PyMuPDF.
-- **Data Processing & Calculations:** Processes 20+ fields across 3 fuel products and 4 payment categories, including inventory, sales, prices, and daily totals.
-- **Reporting Modes:** Implements 2 processing modes with support for multiple PDFs per reporting period and configurable fuel prices.
-- **ODS Generation:** Populates an existing spreadsheet template with extracted and calculated data.
-- **PDF Merging:** Combines existing documentation PDFs into a consolidated document.
-## 🚀 Quick Start
+- **PDF Parsing:** Used PyMuPDF to extract structured data from PDF reports.
+- **Data Transformation & Validation:** Processed **28 data fields** across **3 fuel products** and **3 payment categories**, covering inventory, sales, prices, and daily totals.
+- **Configurable Processing:** Implemented **2 report-processing modes**, supporting multiple PDFs per reporting period and configurable fuel prices.
+- **Spreadsheet Generation:** Populated an existing ODS template with extracted data and calculated results.
+- **Workflow Automation:** Combined PDF extraction, data processing, calculations, and spreadsheet generation into a single-command workflow.
+- **PDF Consolidation:** Merged source PDFs into a consolidated document.
 
 ## 🚀 Quick Start
 
